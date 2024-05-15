@@ -1,0 +1,17 @@
+@import './base.css';
+
+#app {
+
+}
+
+a,
+.green {
+
+}
+
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
